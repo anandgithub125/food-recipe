@@ -1,0 +1,13 @@
+.jumbotron{
+  background-color:#fa3d37;
+  color: white;
+  font-size: 100px;;
+  padding: 100px;
+  text-align: center;
+}
+.material-icons{
+  font-size: 100px ;
+}
+.input-group{
+  width: 39%!important;
+}
